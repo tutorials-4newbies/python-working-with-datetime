@@ -4,6 +4,9 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tutorials-4newbies/python-working-with-datetime/main?filepath=datetime-learn.ipynb)
 
 ### עבודה בקבוצות קטנות
+קישור לקוד בעורך טקסט online:  
+https://repl.it/@apalgy/users#main.py
+
 #### סיפור מסגרת 
 התבקשתם לעבור על רשימת המשתמשים באתר של החברה שלנו.  
  עליכם לנתח את הנתונים כדי לשפר את השירות שלנו ולהעיף משתמשים לא פעילים..  
@@ -26,8 +29,3 @@
 #### את המידע יש להציג, אפשר בפלט של התוכנת עריכה
 
 שיהיה בהצלחה
-
-
-
-
-https://repl.it/@apalgy/users#main.py
